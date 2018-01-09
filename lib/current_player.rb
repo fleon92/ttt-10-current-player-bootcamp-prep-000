@@ -10,3 +10,4 @@ end
   
 def current_player(board)
   turn_counter(board) % 2 ? "X" : "O"
+end
